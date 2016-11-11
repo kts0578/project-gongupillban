@@ -1,0 +1,13 @@
+#아이디	{	}
+태그	{	}
+.클래스	{	}
+
+
+font-family: //서체
+background-color: //배경색
+text-align: //글자 위치
+color:	//색깔
+
+class ="클래스스타일 클래스스타일"
+
+<link rel="stylesheet" type="text/css" href="mystyle.css">
